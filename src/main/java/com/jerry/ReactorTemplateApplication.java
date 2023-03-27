@@ -1,13 +1,13 @@
-package com.codestates;
+package com.jerry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Section4Week4TemplateReactorApplication {
+public class ReactorTemplateApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Section4Week4TemplateReactorApplication.class, args);
+		SpringApplication.run(ReactorTemplateApplication.class, args);
 	}
 
 }
